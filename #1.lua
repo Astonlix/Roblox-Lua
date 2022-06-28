@@ -1,4 +1,4 @@
-local myName = 'vurelix#1017';
+local myName = '! vurelix#1017';
 
 _G.Console = true;
 _G.AutoTap = true;
